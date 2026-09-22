@@ -1,0 +1,16 @@
+Patient_ID,Gender,Age,Blood_Pressure,Cholesterol,Glucose,Health_Status
+101,Male,25,118,180,90,Normal
+102,Female,32,122,190,95,Normal
+103,Male,45,135,220,110,At Risk
+104,Female,29,115,175,88,Normal
+105,Male,54,145,245,125,At Risk
+106,Female,41,130,210,115,At Risk
+107,Male,36,125,195,100,Normal
+108,Female,60,150,260,135,At Risk
+109,Male,50,140,235,120,At Risk
+110,Female,27,110,165,85,Normal
+111,Male,48,138,225,118,At Risk
+112,Female,35,120,185,92,Normal
+113,Male,65,155,270,140,At Risk
+114,Female,52,142,240,130,At Risk
+115,Male,39,128,205,105,Normal
